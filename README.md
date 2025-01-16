@@ -13,4 +13,4 @@ I have hands-on experience with programming languages like JavaScript, TypeScrip
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](www.linkedin.com/in/nithya-pandurangan)
+- [LinkedIn](https://www.linkedin.com/in/nithya-pandurangan)
