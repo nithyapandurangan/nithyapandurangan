@@ -4,36 +4,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a deep 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Colour-Analysis-Tool] - An AI-driven product recommendation system based on personalized colour analysis.
+- 🔭 I’m currently working on Colour-Analysis-Tool - An AI-driven product recommendation system based on personalized colour analysis.
 - 🌱 I’m currently learning Postman (API Testing) & SonarQube (Code Quality Analysis).
 - 📫 How to reach me: [nithyapandurangan.30@gmail.com]
 - 😄 Pronouns: She/Her
-
-## 🛠️ Technologies & Tools
-
-- Programming Languages: 
-  - [JavaScript]
-  - [TypeScript]
-  - [Python]
-  - [C]
-  - [C++]
-
-- Frameworks & Libraries:
-  - [ReactJS]
-  - [NextJS]
-  - [NodeJS]
-  - [React Native]
-  - [Flask]
- 
-- Databases
-  - [MySQL]
-  - [PostgreSQL]
-  - [MongoDB]
-
-- Tools & Platforms:
-  - [Jenkins]
-  - [Maven]
-  - [Docker]
 
 ## 📫 Let's Connect!
 
