@@ -1,6 +1,6 @@
 # Hello, I'm Nithya Pandurangan! 👋
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with a deep love for learning, problem-solving, and collaborating on innovative projects. I am eager to contribute innovative solutions and drive results in new opportunities while striving to create products that enhance the user experience and make their lives easier.
+Welcome to my GitHub profile! I'm a passionate full-stack developer with a deep love for learning, problem-solving, and collaborating on innovative projects. I am eager to contribute creative solutions and drive results in new opportunities while striving to create products that enhance the user experience and make their lives easier.
 
 ## 🚀 About Me
 
