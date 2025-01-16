@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with a deep love for learning, problem-sol
 
 ## 🚀 About Me
 
-🔭 I’m currently working on [Colour-Analysis-Tool](https://github.com/nithyapandurangan/colour-analysis-tool), an AI-assisted product recommendation system that uses personalized colour analysis based on skin tone, hair colour, and eye colour.
+- 🔭 I’m currently working on [Colour-Analysis-Tool](https://github.com/nithyapandurangan/colour-analysis-tool), an AI-assisted product recommendation system that uses personalized colour analysis based on skin tone, hair colour, and eye colour.
 - 📫 How to reach me: [nithyapandurangan.30@gmail.com]
 - 😄 Pronouns: She/Her
 
