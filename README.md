@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a deep 
 - 📫 How to reach me: [nithyapandurangan.30@gmail.com]
 - 😄 Pronouns: She/Her
 
+## 🛠️ Technologies & Tools
+I work with a diverse set of tools and technologies, including JavaScript, Python, and C++. My expertise spans across frameworks like ReactJS, NodeJS, and Flask, along with platforms such as Docker and Jenkins to streamline development and deployment.
+
 ## 📫 Let's Connect!
 
 - [LinkedIn](www.linkedin.com/in/nithya-pandurangan)
-
-Thanks for visiting my profile, and feel free to reach out if you want to connect or collaborate on a project!
