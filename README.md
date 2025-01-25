@@ -1,6 +1,6 @@
 # Hello, I'm Nithya Pandurangan! 👋
 
-I'm a passionate full-stack developer with a deep love for learning, problem-solving, and collaborating on innovative projects. I am eager to contribute creative solutions and drive results in new opportunities while striving to create products that enhance the user experience and make their lives easier.
+I'm a passionate full-stack developer with a deep love for learning, problem-solving, and collaborating on innovative projects.
 
 ## 🚀 About Me
 
