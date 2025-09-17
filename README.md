@@ -4,7 +4,6 @@ I'm a passionate full-stack developer with a deep love for learning, problem-sol
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [jobstack](https://github.com/nithyapandurangan/jobstack), a full-stack job board platform built for freshers, by a fresher using React, Flask & MySQL. It features JWT-based authentication, role-based access control (Job Seeker, Employer, Admin), job posting and application functionality, and secure RESTful API design. If you wish to contribute, ping me!
 - 📫 How to reach me: [nithyapandurangan.30@gmail.com]
 - My Portfolio: https://nithyapandurangan-portfolio.vercel.app/
 - Pronouns: She/Her
